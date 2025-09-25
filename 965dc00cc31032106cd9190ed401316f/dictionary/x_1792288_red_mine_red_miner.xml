@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="9f0e80ccc31032106cd9190ed401315d" label="Red miner" max_length="40" name="x_1792288_red_mine_red_miner" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Date TIme" max_length="40" name="date_time" type="glide_date_time"/>
+        <element attributes="edge_encryption_enabled=true" label="Event Name" max_length="40" name="event_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Description" max_length="100" name="description" type="string"/>
+    </element>
+</database>
